@@ -1,0 +1,27 @@
+{
+    "name": "rasteiner/kel-compiler",
+    "authors": [
+        {
+            "name": "Roman Steiner",
+            "email": "roman@toastlab.ch"
+        }
+    ],
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php" : "^8.0",
+        "antlr/antlr4-php-runtime": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "rasteiner\\KEL\\": "src/KEL/"
+        },
+        "classmap": [
+            "src/KEL/AST.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "rasteiner/k3-calculated-field",
+    "description": "Kirby Example Plugin",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Steiner",
+            "email": "roman@toastlab.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "rasteiner/KEL-compiler": "dev-master"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
