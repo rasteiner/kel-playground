@@ -5,7 +5,7 @@ This is a playground for "KEL" (Kirby Expression Language). This is a monorepo, 
 Feel free to fork and publish your own version of this. 
 The plugin `k3-calculated-field` contained in this repo is just a proof of concept, you are encoraged to use it as a starting point for your own plugin.
 
-Here's a discord thread: https://discord.com/channels/525634039965679616/875326130687705089
+Here's a [discord thread](https://discord.com/channels/525634039965679616/525638772591951882/875326130687705089).
 
 ## How to use
 
